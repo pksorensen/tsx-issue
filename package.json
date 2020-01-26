@@ -1,0 +1,31 @@
+{
+  "name": "org.kjeldager.social-link.client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "safely ask clients for social tokens",
+  "author": "Poul Kjeldager Sørensen <pks@s-innovations.net>",
+  "scripts": {
+    "build": "nuxt-ts build",
+    "dev": "nuxt-ts",
+    "generate": "nuxt-ts generate",
+    "precommit": "npm run lint",
+    "start": "nuxt-ts start"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "3.0.0-beta.19",
+    "fibers": "4.0.3",
+    "nuxt": "2.11.0",
+    "vue-tsx-support": "3.0.0-dev.7a",
+    "vuetify": "2.2.4"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "0.5.6",
+    "@nuxt/typescript-runtime": "0.3.8",
+    "@nuxtjs/vuetify": "1.10.2",
+    "ts-node": "8.6.2",
+    "typescript": "3.7.5",
+    "vue-property-decorator": "8.3.0",
+    "webpack-node-externals": "1.7.2",
+    "@types/node": "13.1.8"
+  }
+}
