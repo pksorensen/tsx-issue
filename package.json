@@ -16,7 +16,7 @@
     "fibers": "4.0.3",
     "nuxt": "2.11.0",
     "vue-tsx-support": "3.0.0-dev.7a",
-    "vuetify": "2.2.4"
+    "vuetify": "2.6.10"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "0.5.6",
