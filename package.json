@@ -14,7 +14,7 @@
   "dependencies": {
     "@nuxtjs/pwa": "3.0.0-beta.19",
     "fibers": "4.0.3",
-    "nuxt": "2.11.0",
+    "nuxt": "2.15.8",
     "vue-tsx-support": "3.0.0-dev.7a",
     "vuetify": "2.2.4"
   },
